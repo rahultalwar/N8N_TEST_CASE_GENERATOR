@@ -8,7 +8,7 @@ The flow is triggered via a chat message containing a Jira Issue ID. It fetches 
 
 ## Flow Diagram
 
-![Flow Diagram](screenshot.png)
+![Flow Diagram](./screenshot.png)
 
 ## Features
 
